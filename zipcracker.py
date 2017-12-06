@@ -7,8 +7,8 @@ Made by Picha
 One day you'll know me for sure...
 ***************************************************************************************************************
 """)
-zipfilename = input("Zip dosyanızın ismini '.zip' uzantısı ile giriniz :")
-dictionary = input("Sözlüğünüzün/Password listenizin ismini '.txt' olarak giriniz:")
+zipfilename = input("Enter your (.zip)file's name:")
+dictionary = input("Enter your (.txt)file's name:")
 
 zip_file = zipfile.ZipFile(zipfilename)
 with open(dictionary, 'r',encoding="utf-8") as file:
