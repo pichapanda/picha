@@ -4,7 +4,7 @@ print("""
 !!!!! KEEP YOUR ZIP FILE, PASSWORD LIST/DICTIONARY AND THIS PROGRAM IN THE SAME FOLDER. !!!!!
 
 Made by Picha
-One day you'll know me for sure...
+GitHub : https://github.com/pichapanda/picha
 ***************************************************************************************************************
 """)
 zipfilename = input("Enter your (.zip)file's name:")
